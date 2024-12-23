@@ -180,8 +180,13 @@ void sendAllData() {
     packetCount = 0; // Clear packets after sending
 }
 
+// vaibhav read from here
+// this fxn sends data via https url in form of string (address,data)
 
 void sendData(int address, int data) {
+
+    
+  
     Serial.println("==========");
     Serial.print("Connecting to ");
     Serial.println(host);

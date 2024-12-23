@@ -1,0 +1,7 @@
+1> create node server and database for :
+	car_id
+	physical_id
+	data
+	image //optional
+
+
