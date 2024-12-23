@@ -5,30 +5,11 @@ This project presents a Cloud-Based Driving Telemetry System designed to provide
 
 ---
 
-
 ## Components
 - **NodeMCU ESP8266:** Handles data collection and cloud communication.
 - **ESP32 Camera Module:** Captures photographic evidence of safety violations.
 - **Google Cloud Services:** Stores telemetry data and images.
 - **CAN Bus Network:** Reads vehicle sensor data.
-
----
-
-## Architecture
-### Block Diagram
-![Block Diagram](block_diagram)
-
-### Circuit Diagram
-![Circuit Diagram](circuit_diagram)
-
----
-
-## Flowcharts
-### Data Processing Flow
-![Flowchart 1](flowchart_1)
-
-### Image Capture Flow
-![Flowchart 2](flowchart_2)
 
 ---
 
